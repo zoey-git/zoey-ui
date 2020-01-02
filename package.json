@@ -1,9 +1,11 @@
 {
   "name": "zoey-ui",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "version": "1.0.1",
+  "description": "基于vue-cli2的ui组件库",
   "author": "zhounie <iszhounie@aliyun.com>",
-  "private": true,
+  "keywords": "zoey-ui",
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

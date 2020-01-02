@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 
+import ZoeyUI from './../packages'
+
+Vue.use(ZoeyUI)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
